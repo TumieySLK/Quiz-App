@@ -27,7 +27,7 @@ let questions =
     },
     {
         numb:3,
-        question:"Which South African rapper when platinum witout a vernac record on his album Levele",
+        question:"Which South African rapper went platinum without a vernac record on his album Levels",
         answer:"Aka",
         options:
         [
